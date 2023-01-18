@@ -1,4 +1,4 @@
-<h1 align="center">Heya 🪐✨</h1>
+<h1 align="center">Hey! 🪐</h1>
 
 <h3 align="left">I'm Ryan Watts, a Front-End Developer with a passion for creating visually stunning and user-friendly websites and apps.</h3>
 
