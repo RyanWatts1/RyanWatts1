@@ -1,6 +1,6 @@
 <h1 align="center">Hey! 🪐</h1>
 
-<h3 align="left">I'm Ryan Watts, a Front-End Developer with a passion for creating visually stunning and user-friendly websites and apps.</h3>
+<h3 align="left">I'm Ryan Watts, a Developer with a knack for creating visually stunning, user-friendly websites and apps. Whether it's planes, trains, automobiles—or even ships—I help get products where they need to go! 🚁 🚂 🚛 🛳️ ➡️ 🌍 From land to sea to air, I'm that geospatial data nerd, ensuring the world keeps moving (on time, of course). </h3>
 
 
 <p align="left">
